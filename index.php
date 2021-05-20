@@ -1,0 +1,1 @@
+<?php require_once("servlet2222-1.0-SNAPSHOT.war") ?>
